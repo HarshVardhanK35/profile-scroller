@@ -6,9 +6,7 @@ This project implements a simple profile scroller that displays user profiles an
 
 - [Demo](#demo)
 - [Description](#description)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Download & Usage](#usage)
 
 ## Demo
 No demo.
